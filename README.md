@@ -1,5 +1,5 @@
 
-# 📁 Auto File Renamer - PyQt5
+# Auto File Renamer
 
 A handy desktop tool to automatically rename all files inside a folder using custom prefixes, numbering, or alphabetical order. Perfect for organizing messy folders with a single click!
 

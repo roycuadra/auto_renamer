@@ -1,3 +1,4 @@
+
 # 📁 Auto File Renamer - PyQt5
 
 A handy desktop tool to automatically rename all files inside a folder using custom prefixes, numbering, or alphabetical order. Perfect for organizing messy folders with a single click!
@@ -29,12 +30,43 @@ A handy desktop tool to automatically rename all files inside a folder using cus
 - Python 3.x  
 - PyQt5
 
-> Install PyQt5 using pip:
+### 🔧 Installation
+
+1. Install PyQt5 using pip:
 ```bash
 pip install PyQt5
+```
 
+2. Clone this repository:
+```bash
 git clone https://github.com/yourusername/auto-file-renamer.git
 cd auto-file-renamer
+```
 
-
+3. Run the script:
+```bash
 python auto_renamer.py
+```
+
+---
+
+## 🔧 Future Features (Ideas)
+
+- Undo last rename  
+- Dark mode  
+- File preview before rename  
+- Multi-folder batch support  
+- Save settings/preferences
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by Roy Cuadra  
+Feel free to suggest ideas or fork the project!
+
+---
+
+## 📄 License
+
+MIT License – Free for personal or commercial use

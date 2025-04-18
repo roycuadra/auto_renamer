@@ -53,9 +53,7 @@ python auto_renamer.py
 ## Future Features (Ideas):
 
 - Undo last rename  
-- Dark mode  
 - File preview before rename  
-- Multi-folder batch support  
 - Save settings/preferences
 
 ---

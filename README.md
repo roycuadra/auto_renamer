@@ -7,7 +7,7 @@ A handy desktop tool to automatically rename all files inside a folder using cus
 
 ## 📷 Screenshot:
 
-<img src="image/image_1.png" alt="Deskstop" width="400"/>
+<img src="image/image_1.png" alt="Deskstop" width="500"/>
 
 ---
 

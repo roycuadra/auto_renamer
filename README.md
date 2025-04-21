@@ -4,14 +4,19 @@
 A handy desktop tool to automatically rename all files inside a folder using custom prefixes, numbering, or alphabetical order. Perfect for organizing messy folders with a single click!
 
 ---
+## Download
 
-## 📷 Screenshot:
-
-<img src="image/image_1.png" alt="Deskstop" width="500"/>
+[Click here to Download the Installer file](https://github.com/roycuadra/auto_renamer/releases)
 
 ---
 
-##  Features:
+## 📷 Screenshot:
+
+<img src="image/image_1.png" alt="Deskstop" width="400"/>
+
+---
+
+## Features:
 
 - **Auto-Rename Files**  
 → Numbering (1, 2, 3...) or Alphabet (A, B, C...) options
@@ -70,3 +75,10 @@ Made with ❤️ by Roy Cuadra
 Feel free to suggest ideas or fork the project!
 
 ---
+
+## Sponsor Me
+
+If you find this project helpful, consider [sponsoring me on GitHub](https://github.com/sponsors/roycuadra) to support its development and maintenance. Your support is greatly appreciated!
+
+---
+
